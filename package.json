@@ -1,0 +1,18 @@
+{
+  "name": "hexo-showcase",
+  "version": "0.0.1",
+  "description": "Showcase feature for Hexo.",
+  "main": "index",
+  "repository": "perqin/hexo-showcase",
+  "keywords": [
+    "hexo"
+  ],
+  "author": "Perqin <perqinxie@gmail.com> (https://perqin.github.io)",
+  "license": "MIT",
+  "dependencies": {
+    "object-assign": "latest"
+  },
+  "devDependencies": {
+    "hexo": "^3.1.1"
+  }
+}
