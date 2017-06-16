@@ -4,6 +4,7 @@
 
 const assign = require('object-assign');
 var tildify = require('tildify');
+var chalk = require('chalk');
 
 hexo.config.hexo_showcase = assign({
     showcase_dir: 'showcase'
